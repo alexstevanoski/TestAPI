@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI/TestAPI.csproj",
-      "projectName": "TestAPI",
-      "projectPath": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI/TestAPI.csproj",
+      "projectUniqueName": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI.Api/TestAPI.Api.csproj",
+      "projectName": "TestAPI.Api",
+      "projectPath": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI.Api/TestAPI.Api.csproj",
       "packagesPath": "/Users/alexstevanoski/.nuget/packages/",
-      "outputPath": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI/obj/",
+      "outputPath": "/Users/alexstevanoski/Documents/GitHub/TestAPI/TestAPI.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexstevanoski/.nuget/NuGet/NuGet.Config"
